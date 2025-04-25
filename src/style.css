@@ -1,6 +1,6 @@
 @import "tailwindcss";
 *, ::after, ::before{
-    font-family: "Poppins";
+    font-family: "Poppins" 'Lato', monospace;
 }
 .nav-active{
     position:relative;
